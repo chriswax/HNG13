@@ -40,7 +40,7 @@ Visit http://localhost:8000/index.php in your browser.
 Example Response:
 
 json
-
+ ```php
 {
   "status": "success",
   "user": {
