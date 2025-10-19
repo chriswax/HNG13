@@ -41,16 +41,16 @@ Example Response:
 
 json
  ```php
-{
-  "status": "success",
-  "user": {
-    "email": "your.email@example.com",
-    "name": "Your Name",
-    "stack": "PHP, JavaScript"
-  },
-  "timestamp": "2025-10-19T20:15:30+00:00",
-  "fact": "A commemorative tower was built in Scotland for a cat named Towser, who caught nearly 30,000 mice in her lifetime."
-}
+      {
+        "status": "success",
+        "user": {
+          "email": "your.email@example.com",
+          "name": "Your Name",
+          "stack": "PHP, JavaScript"
+        },
+        "timestamp": "2025-10-19T20:15:30+00:00",
+        "fact": "A commemorative tower was built in Scotland for a cat named Towser, who caught nearly 30,000 mice in her lifetime."
+      } 
 
 
 🧪 API Reference
